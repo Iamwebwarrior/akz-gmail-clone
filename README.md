@@ -4,6 +4,12 @@ hello welcome to this project of gmail clone with react and firebase
 <br/>
 in this project u can send email to users and chat with them <br/>
 
+# DEMO OF CLONE
+<div align="center">
+<pre>
+<a href="https://akz--clone-9d1ee.web.app/">https://akz--clone-9d1ee.web.app/</a>
+</pre>
+</div>
 
 ## How to use this app
 
